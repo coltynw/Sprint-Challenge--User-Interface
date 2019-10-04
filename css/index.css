@@ -234,7 +234,7 @@ footer nav a {
 
 
 /* background animation feel free to comment out */
-/* */
+/* 
 body {background: linear-gradient(157deg, #f50202, #0ef502, #9302f5);
     background-size: 600% 600%;
     
@@ -248,4 +248,3 @@ body {background: linear-gradient(157deg, #f50202, #0ef502, #9302f5);
         100%{background-position:0% 4%}
     }
 /* 
-*/
